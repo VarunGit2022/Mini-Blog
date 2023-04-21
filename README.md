@@ -5,8 +5,10 @@ This is a MiniBlog project created using Python, Django, HTML, CSS, and Bootstra
 
 Features:
 
-![image](https://user-images.githubusercontent.com/114444753/222398918-df874de4-e5b8-4574-84a4-17aea693257c.png)
-
+![image](https://user-images.githubusercontent.com/114444753/233544245-90c6c9cf-1e61-4e49-a420-b0e57968dda9.png)
+![image](https://user-images.githubusercontent.com/114444753/233544365-c0e3ba79-045e-4d57-b880-ef172fb2f4c2.png)
+![image](https://user-images.githubusercontent.com/114444753/233544520-6d89a2a5-bac5-4fd3-a525-09ca25bc605d.png)
+![image](https://user-images.githubusercontent.com/114444753/233544619-c65ec5a3-017b-4acd-b2a7-2f57d9162baf.png)
 
 1. Users can create an account and login to the application.
 2. Users can create, read, update, and delete blog posts.
@@ -22,16 +24,6 @@ Technology Stack:
 4. CSS
 5. Bootstrap
 6. SQLite (for the database)
-
-
-Installation:
-
-To run this project on your local machine, follow these steps:
-
-![image](https://user-images.githubusercontent.com/114444753/222396866-d7832c4c-1acc-41b5-b74a-fe715627f588.png)
-![image](https://user-images.githubusercontent.com/114444753/222396961-73670e38-e942-4887-a732-f87926b89dd8.png)
-![image](https://user-images.githubusercontent.com/114444753/222397040-3103564b-537b-42c2-9ece-317052a7ffd9.png)
-![image](https://user-images.githubusercontent.com/114444753/222397078-58da5596-64cb-49dc-8100-f6f891f88d70.png)
 
 
 Conclusion:

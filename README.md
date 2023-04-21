@@ -19,7 +19,8 @@ Dashboard Page:
 
 Add Post:
 
-![image](https://user-images.githubusercontent.com/114444753/233544619-c65ec5a3-017b-4acd-b2a7-2f57d9162baf.png)
+![image](https://user-images.githubusercontent.com/114444753/233546375-dbdcf656-72d6-4b1e-98df-7b47f6a657f4.png)
+
 
 1. Users can create an account and login to the application.
 2. Users can create, read, update, and delete blog posts.

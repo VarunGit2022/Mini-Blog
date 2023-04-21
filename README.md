@@ -37,7 +37,7 @@ Technology Stack:
 5. Bootstrap
 6. SQLite (for the database)
 
-To use Orchard Fresh Fruits on your local machine, follow these steps:
+To use Mini Blog on your local machine, follow these steps:
 
 Clone the repository from GitHub: git clone https://github.com/VarunGit2022/Mini-Blog.git
 Install the required dependencies: pip install -r requirements.txt
